@@ -12,8 +12,8 @@
 <h2>🚀 Languages and Tools I Use</h2>
 <p> <img src="https://skillicons.dev/icons?i=js,react,nodejs,java,html,css,mysql,firebase,php,kotlin" /></p>
 <h2>✒️ Recent Posts</h2>
-- Making an Chat app for Android specified for My own University name [Rillchat](https://github.com/farelaryaduta/RillChat.git) <br>
-- Making an Examination App for a School named [ExamNation](https://github.com/farelaryaduta/ExamNation.git)
+- Making an Chat app for Android specified for My own University name RillChat powered by AI <br>
+- Making an Examination App for a School named ExamNation
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/farel-aryaduta-daniswara-5ba53a293/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
