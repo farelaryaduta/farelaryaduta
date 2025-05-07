@@ -1,8 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/farelaryaduta">Farel Arya Duta Daniswara</a> 👋</h1>
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about programming and enjoy solving problems using Python and C++.<br>
@@ -41,9 +39,9 @@
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=farelaryaduta&theme=react-dark)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snakes" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farelaryaduta/farelaryaduta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farelaryaduta/farelaryaduta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farelaryaduta/farelaryaduta/output/pacman-contribution-graph.svg">
 </picture>
 
 <br>
