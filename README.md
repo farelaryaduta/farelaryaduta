@@ -7,6 +7,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/farelaryaduta">Farel Arya Duta Daniswara</a> 👋</h1>
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about programming and Also an Tech Enjoyer. Currently in love with Javascript.<br>
+  <a href="https://farel-aryaduta.vercel.app/">My Portofolio</a>
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
